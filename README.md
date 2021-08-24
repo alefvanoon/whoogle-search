@@ -487,7 +487,7 @@ A lot of the app currently piggybacks on Google's existing support for fetching 
 - [https://search.flawcra.cc](https://search.flawcra.cc)
 - [https://search.exonip.de](https://search.exonip.de)
 - [https://whoogle.silkky.cloud](https://whoogle.silkky.cloud)
-- [https://s.alefvanboon.xyz](https://s.alefvanboon.xyz)
+- [https://s.alefvanoon.xyz](https://s.alefvanoon.xyz)
 ## Screenshots
 #### Desktop
 ![Whoogle Desktop](docs/screenshot_desktop.jpg)
